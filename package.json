@@ -1,0 +1,17 @@
+{
+  "name": "MusicBotNodeJS",
+  "version": "1.0.0",
+  "description": "A light NodeJS MusicBot",
+  "main": "index.js",
+  "repository": "https://github.com/UnrealValentin/DC-MusicBot-NodeJS",
+  "author": "Waterdev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js",
+    "discord.js-commando": "discordjs/Commando",
+    "ffmpeg-static": "^4.2.2",
+    "node-opus": "^0.3.3",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^3.1.0"
+  }
+}
